@@ -1,6 +1,6 @@
-# Python Project Template
+# Order Management System
 
-This is a template for creating Python projects quickly with a virtual environment and dependencies setup.
+This is a System of management of orders build for a company
 
 ## Getting Started
 
@@ -8,17 +8,17 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.12
 
 ### Installation
 
 1. Clone the repository:
   ```sh
-  git clone https://github.com/yourusername/python_proyect_template.git
+  git clone https://github.com/yourusername/OrderManagementSystem.git
   ```
 2. Navigate to the project directory:
   ```sh
-  cd python_proyect_template
+  cd OrderManagementSystem
   ```
 
 ### Setting Up the Project
